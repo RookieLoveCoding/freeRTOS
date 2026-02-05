@@ -1,2 +1,2 @@
-# arm
-some records during arm study
+# freeRTOS kernel
+some records during freeRTOS study
